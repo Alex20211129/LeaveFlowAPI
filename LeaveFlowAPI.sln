@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveFlowAPI", "LeaveFlowAPI\LeaveFlowAPI.csproj", "{854C4623-4456-4E55-B609-669CDA0DA10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveFlowAPI.Tests", "LeaveFlowAPI.Tests\LeaveFlowAPI.Tests.csproj", "{2E2CA126-61F6-4D8D-A0A6-D1F5A11E05B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854C4623-4456-4E55-B609-669CDA0DA10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854C4623-4456-4E55-B609-669CDA0DA10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854C4623-4456-4E55-B609-669CDA0DA10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854C4623-4456-4E55-B609-669CDA0DA10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2CA126-61F6-4D8D-A0A6-D1F5A11E05B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2CA126-61F6-4D8D-A0A6-D1F5A11E05B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2CA126-61F6-4D8D-A0A6-D1F5A11E05B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2CA126-61F6-4D8D-A0A6-D1F5A11E05B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3FC67D-6AF5-49B7-B1CE-0A5111F70755}
+	EndGlobalSection
+EndGlobal
